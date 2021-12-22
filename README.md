@@ -1,6 +1,5 @@
 ## Paul Miranda
-I'm a fullstack developer specialized in the frontend. Here are some of my personal projects. 
-Some of the technologies I like to work are:
+I'm a fullstack developer specialized in the frontend. Some of the technologies I like to work are:
 <br/>
 **Typescript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 **Javascript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
